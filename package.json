@@ -1,0 +1,12 @@
+{
+  "name": "4 (parser)",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parser": "^2.2.0",
+    "mysql": "^2.16.0",
+    "typescript": "^3.3.3333"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.0"
+  }
+}

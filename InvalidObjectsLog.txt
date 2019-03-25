@@ -1,0 +1,10 @@
+Mon Mar 25 2019 16:45:21 GMT+0300 (Belarus Standard Time)
+{"ID":"1006","Name":"Oleg","Surname":"Kats","Mail":"Oleg@mail.ru","Date of registration":"29.01.2016","Phone":"375 28 2540033"}
+[Date of registration] Invalid format for '29.01.2016'.
+{"ID":"1007","Name":"Petya","Surname":"Grom","Mail":"Petya@gmail.ru","Date of registration":"28.02.2020","Phone":"375 25 9658410"}
+[Date of registration] Invalid format for '28.02.2020'.
+{"ID":"1008","Name":"Elena","Surname":"Glazov","Mail":"Elena@mail.ru","Date of registration":"24.04.2014","Phone":"375 30 2561421"}
+[Date of registration] Invalid format for '24.04.2014'.
+{"ID":"1008","Name":"Igor","Surname":"Igorov","Mail":"Igor@mail.ru","Date of registration":"25.00.2018","Phone":"375 29 340157"}
+[Date of registration] Invalid format for '25.00.2018'.
+[Phone] Invalid length for '375 29 340157'.
